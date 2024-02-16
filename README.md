@@ -1,2 +1,2 @@
-# distractor-generation
+# Distractor-Generation
 Distractor Generation  
